@@ -1,1 +1,26 @@
 .qodo
+rl.env
+requirements.txt
+__pycache__/
+# Ignore Python cache files
+*.pyc
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore log files
+*.log
+# Ignore coverage reports
+*.coverage
+# Ignore data files
+*.csv
+# Ignore configuration files
+*.json
+# Ignore temporary files
+*.tmp
+# Ignore backup files
+*.bak
+# Ignore IDE specific files
+.idea/
+# Ignore OS generated files
+.DS_Store
